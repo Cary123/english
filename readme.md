@@ -1,4 +1,11 @@
-<center>English Learning</center>
+# <center>English Learning</center>
+
+# [词性](#词性)
+# [句子的成分](#句子的成分)
+# [五种基本句型](#五种基本句型)
+# [并列句](#并列句)
+# [复合句](#复合句)
+# [书面表达常用的句型和短语](#书面表达常用的句型和短语)
 
 ## 词性
 
@@ -281,7 +288,7 @@ Indeed/ Really/ Of course/ That is …
 3. As is well-known…
 ```
 
-### 三.     书信
+### 三. 书信
 ```
   1.  开头 :  
 Thanks for your last letter.
@@ -295,7 +302,7 @@ Thanks for your last letter.
     Do remember me to your parents !
 ```
 
-### 四 .   叙事
+### 四. 叙事
 ```
  It is quite obvious/clear that… (  很显然 ……)
  There is no doubt that… ( 毫无疑问 ……)
@@ -320,7 +327,7 @@ Thanks for your last letter.
  Mr. Green, a favorite teacher from the USA, is teaching…
 ```
 
-### 议论
+### 五. 议论
 ```
 Many people insist that...
 很多人坚持认为 ...
@@ -397,7 +404,7 @@ There is no evidence to suggest that...  没有证据表明 ...
 
 ```
 
-### 五 .  书信的署名 :
+### 六. 书信的署名
 ```
 •   亲人、家属： Yours lovingly ; 
 •     Yours affectionately
