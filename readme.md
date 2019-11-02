@@ -1,30 +1,17 @@
 <center>English Learning</center>
+
 ## 词性
 
 ## 句子的成分
 
 ```
 句子的成分
-1. 主语—主语是谓语讲述的对象，表示所说的“是什么”或“是谁”。一般由名词、
-代词、不定式或相当于名词的词或短语来充当。它在句首。
-注意：不定式作主语时，常用形式主语it 句型。
-2. 谓语—说明主语“做什么”，“是什么”或“怎么样”。
-谓语(谓语部分里主要的词)必须用动词。谓语和主语在人称和数两方面必须一
-致。它在主语后面。
-3. 表语—表语说明主语“是什么”或者“怎么样”，由名词、形容词、副词、介词、
-不定式及相当于名词或形容词的词或短语来担任。它的位置在系动词后面。
-*注意区别：My job is teaching.(teaching 为表语) 与 I am teaching now.(am
-teaching 为谓语)
-4. 宾语—宾语是动作、行为的对象，由名词、代词、不定式或相当于名词的词、
-短语来担任，它和及物动词一起说明主语做什么，在谓语之后。
-5. 状语—状语用来修饰动词、形容词或副词。一般表示行为发生的时间、地点、
-目的、方式、程度等意义，一般由副词、介词短语、不定式或相当于副词的词
-或短语来表示。状语一般放在句末，但有的可以放在句首、句中。
-6. 定语—定语是用来修饰名词或代词的。形容词、代词、数词、名词、介词短
-语、不定式或相当于形容词的词或短语等都可以担任定语。因为它是修饰名词
-或代词的，而名词和代词又可以作主语，还可以作表语和宾语，所以定语的位
-置很灵活，凡是有名词、代词的地方都可以有定语。
-英语常用的句型结构
+1. 主语—主语是谓语讲述的对象，表示所说的“是什么”或“是谁”。一般由名词、代词、不定式或相当于名词的词或短语来充当。它在句首。注意：不定式作主语时，常用形式主语it 句型。
+2. 谓语—说明主语“做什么”，“是什么”或“怎么样”。谓语(谓语部分里主要的词)必须用动词。谓语和主语在人称和数两方面必须一致。它在主语后面。
+3. 表语—表语说明主语“是什么”或者“怎么样”，由名词、形容词、副词、介词、不定式及相当于名词或形容词的词或短语来担任。它的位置在系动词后面。*注意区别：My job is teaching.(teaching 为表语) 与 I am teaching now.(amteaching 为谓语)
+4. 宾语—宾语是动作、行为的对象，由名词、代词、不定式或相当于名词的词、短语来担任，它和及物动词一起说明主语做什么，在谓语之后。
+5. 状语—状语用来修饰动词、形容词或副词。一般表示行为发生的时间、地点、目的、方式、程度等意义，一般由副词、介词短语、不定式或相当于副词的词或短语来表示。状语一般放在句末，但有的可以放在句首、句中。
+6. 定语—定语是用来修饰名词或代词的。形容词、代词、数词、名词、介词短语、不定式或相当于形容词的词或短语等都可以担任定语。因为它是修饰名词或代词的，而名词和代词又可以作主语，还可以作表语和宾语，所以定语的位置很灵活，凡是有名词、代词的地方都可以有定语。英语常用的句型结构
 
 ```
 
@@ -33,50 +20,30 @@ teaching 为谓语)
 ### 一、句型1——主语+谓语
 ```
 I dance.
-
 She died.
-
 we agree.
 ```
 
 ### 二、句型2——主语+谓语+宾语
 ```
 I hate him.
-
 I love you.
 ```
 
 ### 三、句型3——主语+谓语+间接宾语+直接宾语
 ```
-
 I give him a book
-
 ```
 
 ### 四、句型4——主语+谓语+宾语+宾语补足语
 ```
-
 I want you to go with me. （to go with me就是宾语补足语）
-
 ```
 
 ### 五、句型5——主语+系动词+表语
 ```
-
 It smells good. （感官类系动词）
-
 She is a teacher. （be动词后一般接名词，形容词（或不定式等））
-
-```
-
-## 复杂句型
-```
-1. My uncle, who is seventy years old, works on a farm.
-
-2. China is a country that its history is very long.
-- China is a country. (独立句子)
-` That its history is very long (从句)
-
 ```
 
 ## 并列句
@@ -258,5 +225,110 @@ eg. Whatever (no matter what )you say, I won’t agree you .
 
 ```
 
-## 短语
+## 书面表达常用的句型和短语
+
+### 一． 表“顺序”的句型：
+```
+( 一 ) ：
+1.  Firstly/secondly/Thirdly/…Finally
+2.  First/second/Third/…Finally
+3.  In the first place…, in the second place…
+4.  On (the) one hand…, on the other hand…
+（二）：表“首先”的有：
+Firstly /First/ First of all/ To begin with…
+（三）：表“最终”的有：
+Finally/ at last/ in the end/ at length/ Last but not the least…
+（四）：表“更进一步”的有：
+Besides/ What’s more/ Moreover/ Furthermore/ In addition…
+（五）：表“还有 …,  也 …,  和 … 一起 ”: 
+and/ with/ together with/ as well as…
+（六）：表“观点”的有：
+In my opinion/ view, 
+Personally speaking,
+As far as I’m concerned, 
+( 七 )  表“总结”：
+In short/ Briefly/ In all/ In summary/ In a word/ In brief
+( 八 )  表“   比较”（ compare  相同）
+Similarly/ By comparison/ be the same as / be similar to / likewise/ 
+( 九 )  表“不同”的比较 contrast
+However/ Instead/ In spite of/ Anyhow/ Nevertheless/ …
+On the contrary/ On the other hand/ Otherwise/ Still…
+Compared with A, B…
+In contrast with A, B …
+Different from A, B …
+( 十 ) To explain/ give reasons:
+Actually/ In fact/ As a matter of fact/ Certainly/
+ For example/ For instance/ Such as / 
+Indeed/ Really/ Of course/ That is …
+```
+
+### 二．常用句型：
+```
+1. There be/ stands/ lives/ lies… “ 某地有某物 ”
+2. It is reported/said/believed/ thought/ proved that… “ 据 …”
+3. It is/was +  强调部分 +that… “ 就是 …”
+4. not only… but also…
+5. neither … nor…
+6. either … or…
+7. Only + 介词短语 /  时间副词 (then) / 状语从句 ,  位于句首 , 用倒装
+8. What’s the most important is …  最重要的是 …
+ Most importantly,….
+9. It can’t be better to do …
+10. A is to B what C is to D 
+11.  多用复合句（定语从句）
+1. As is often the case , …
+2. As we all know, …
+3. As is well-known…
+```
+
+### 三.     书信
+```
+  1.  开头 :  
+Thanks for your last letter.
+  I am writing just to inform you ……
+  In reply to your last letter, I am writing
+ T o explain the two questions as follows: ……
+ 
+2.  结尾 :
+  Looking forward to your reply/hearing from you!
+    Thanks for your consideration.
+    Do remember me to your parents !
+```
+
+### 四 .   叙事
+```
+ It is quite obvious/clear that… (  很显然 ……)
+ There is no doubt that… ( 毫无疑问 ……)
+ Take …as an example. ( 以 …… 为例）
+ On one hand,… on the other hand… ( 一方面， …… 另一方面 )
+ Only in this way shall we… ( 只有这样我们才能 ……)
+ As far as…is concerned, I prefer…( 就 …… 而言，我更 ……)
+ Measures/Action should be taken to…( 必须采取措施去 ……)
+ For the reasons given above, I feel that…( 鉴于以上原因，我觉得  What these people fail to consider is that…( 这些人没有想到的是 ..)
+ Undoubtedly there is a long way to go before…( 毫无疑问要 ……
+ 还有很长的路要走）
+ Therefore, I strongly recommend that …( 因此，   我强烈建议 …
+ All the facts show that… （所有的事实显示 ……)
+ I like …not only because… but also because…( 我喜欢 ……
+  不仅因为 …… 而且因为 ……)
+ I am writing to you to inquire about…( 我写信给你想询问 ……)
+ I am writing to express my dissatisfaction with/at…( 我给你
+  写信表示我对 …… 的不满）
+ I apologize to you for…( 我为 …… 向你道歉）
+ I am grateful to you for…( 我为 …… 向你表示感谢）
+ Mr. Green, my best friend, is teaching…
+ Mr. Green, a favorite teacher from the USA, is teaching…
+```
+
+### 五 .  书信的署名 :
+```
+•   亲人、家属： Yours lovingly ; 
+•     Yours affectionately
+•   朋友、平辈： Sincerely yours 
+•     Yours sincerely 
+•   上级、长者： Yours respectfully 
+•     Respectfully yours 
+•   单位、部门：   Yours sincerely 
+•     Yours faithfully 
+```
 
